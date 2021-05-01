@@ -6,6 +6,7 @@
 #include <getopt.h>
 #include <unistd.h>
 #include <string.h>
+#include <time.h>
 int temp_argc = 0;
 int change(int * argc, char * * argv[])
 {
